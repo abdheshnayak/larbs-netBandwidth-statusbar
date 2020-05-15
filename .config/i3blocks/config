@@ -1,0 +1,4 @@
+[netBandwidth]
+interval=1
+command=python ~/.local/bin/statusbar/netSpeed.py
+label=⇅ 
