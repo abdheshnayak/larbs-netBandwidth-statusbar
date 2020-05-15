@@ -23,7 +23,7 @@ command=python ~/.local/bin/statusbar/netBandwith.py
 label=⇅ 
 ```
 
-## Put a file .local/bin/statusbar/netSpeed.py
+## Put a file .local/bin/statusbar/netBandwidth.py
 
 This file present in this repository download and put in the given path.
 
@@ -61,4 +61,4 @@ now yourare done your task.. now you you can see the result in your status bar b
 ## Author
 * **Abdhesh Nayak** - [Github](https://github.com/abdheshnayak), [LinkedIn](https://www.linkedin.com/in/abdhesh-nayak/)
 
-See also the list of [contributors](https://github.com/abdheshnayak/larbs-netBandwidth-statusbar/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abdheshnayak/larbs-netBandwith-statusbar/graphs/contributors) who participated in this project.
