@@ -19,7 +19,7 @@ Add the following code in the file ./config/i3blocks/config
 
 [netBandwidth]
 interval=1
-command=python ~/.local/bin/statusbar/netBandwith.py
+command=python ~/.local/bin/statusbar/netBandwidth.py
 label=⇅ 
 ```
 
